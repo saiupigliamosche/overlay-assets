@@ -1,0 +1,38 @@
+{
+  "version": "0.1.0-assets",
+  "basePath": "pigliamosche-intro",
+  "backgrounds": [
+    "01_river_sunset.jpg",
+    "02_volcanic.jpg",
+    "03_castle_courtyard.jpg",
+    "04_desert_ruins.jpg",
+    "05_swamp.jpg",
+    "06_crystal_cave.jpg",
+    "07_snow_valley.jpg",
+    "08_ancient_ruins.jpg",
+    "09_forest_waterfall.jpg",
+    "10_meadow_castle.jpg"
+  ],
+  "classes": [
+    "arcere",
+    "guerriero",
+    "mago"
+  ],
+  "bosses": [
+    "regina_pigliamosche",
+    "freezer_cam",
+    "biscione_di_ciobby",
+    "vecchi_del_villaggio",
+    "moderatori"
+  ],
+  "summons": [
+    "tabat",
+    "fear",
+    "coscio",
+    "saguaro"
+  ],
+  "notes": {
+    "bosses": "5 boss currently recoverable as finalized assets from the conversation; engine remains data-driven for 10.",
+    "runtime": "runtime.png is a transparent/cropped derivative for StreamElements; concept.png and sprite_sheet.png preserve source assets."
+  }
+}
